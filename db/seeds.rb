@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Tarefa.create(descricao: 'Estudar HTML', finalizada: false)
+Tarefa.create(descricao: 'Estudar CSS', finalizada: false)
+Tarefa.create(descricao: 'Estudar JS', finalizada: false)
+Tarefa.create(descricao: 'Acompanhar a Codifiq!', finalizada: false)

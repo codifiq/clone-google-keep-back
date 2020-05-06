@@ -47,6 +47,12 @@ Para criar o arquivo do banco de dados e subir a estrutura do banco rode o segui
 rails db:create db:migrate
 ```
 
+Para cadastrar algumas tarefas de exemplo no banco de dados rode:
+
+```bash
+rails db:seed
+```
+
 ### Rodando a aplicação
 
 Para subir o servidor de desenvolvimento com a aplicação rode o seguinte comando dentro da pasta do projeto:
